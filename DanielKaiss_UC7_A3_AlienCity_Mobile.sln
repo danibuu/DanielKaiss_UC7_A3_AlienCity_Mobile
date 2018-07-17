@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanielKaiss_UC7_A3_AlienCity_Mobile", "Assembly-CSharp.csproj", "{76C53980-6961-CE1F-EAB6-80A0761D9EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanielKaiss_UC7_A3_AlienCity_Mobile", "Assembly-CSharp-firstpass.csproj", "{2D0DBD3A-8C39-38F1-8A58-E011F0BC31D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanielKaiss_UC7_A3_AlienCity_Mobile", "Assembly-CSharp-Editor-firstpass.csproj", "{281032BD-E6B3-FB80-23A7-81F977226522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C53980-6961-CE1F-EAB6-80A0761D9EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C53980-6961-CE1F-EAB6-80A0761D9EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C53980-6961-CE1F-EAB6-80A0761D9EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C53980-6961-CE1F-EAB6-80A0761D9EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0DBD3A-8C39-38F1-8A58-E011F0BC31D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0DBD3A-8C39-38F1-8A58-E011F0BC31D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0DBD3A-8C39-38F1-8A58-E011F0BC31D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0DBD3A-8C39-38F1-8A58-E011F0BC31D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281032BD-E6B3-FB80-23A7-81F977226522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281032BD-E6B3-FB80-23A7-81F977226522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281032BD-E6B3-FB80-23A7-81F977226522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281032BD-E6B3-FB80-23A7-81F977226522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
